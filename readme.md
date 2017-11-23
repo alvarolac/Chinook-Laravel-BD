@@ -1,3 +1,7 @@
+# Chinook-Laravel-BD
+
+Ejemplo, Proyecto en Laravel, implementación de interfaz para utilizar la base de datos Chinook
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
